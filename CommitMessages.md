@@ -1,4 +1,4 @@
-####Writing Proper Commit Messages - A Developer's Guide
+# Writing Proper Commit Messages - A Developer's Guide
 Writing clear and descriptive commit messages is essential for maintaining a well-documented and organized codebase. Follow these guidelines to ensure your commit messages are effective and meaningful:
 
 **1. Start with a Capital Letter**
